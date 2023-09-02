@@ -1,0 +1,106 @@
+h1 {
+    box-shadow: 5px 5px 1px rgb(255, 255, 255);
+    text-align: center;
+    color: #ffffff;
+    font-size: 70px;
+    padding: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(56, 40, 16, 0.87);
+    text-shadow: 5px 5px 5px rgb(0, 0, 0) ;
+}
+
+header {
+    height: 120px;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(90, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    border-radius: 500px;
+}
+
+.impacto {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+body {
+
+    border: 5px solid #000000;
+    background-image: url("https://br.web.img3.acsta.net/r_1920_1080/pictures/19/02/07/09/39/4720297.jpg");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: #000000
+}
+
+.second {
+
+    font-size: 25px;
+    margin-top: 55px;
+    background-color: rgba(56, 40, 16, 0.87);
+    color: #ffffff;
+    margin-left: 2px;
+    text-align: center;
+}
+
+iframe {
+    margin-left: 255px;
+    margin-block-end: 10px;
+}
+
+
+h4 {
+    color: #000000;
+    box-shadow: 5px 5px 15px rgb(0, 0, 0);
+    font-size: 40px;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.photo {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+
+}
+
+article {
+    padding: 20px;
+}
+
+.marg {
+    max-width: 1200px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.6)
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffffff65;
+    border-radius: 500px;
+
+}
+
+.conect {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(253, 253, 253);
+    text-shadow: 5px 5px 5px rgb(0, 0, 0) ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer {
+    color: #ffffff;
+
+}
+
+.negrito{
+    font-weight: bold;
+    font-size: large;
+}
